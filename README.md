@@ -18,7 +18,7 @@ Una vez creado clicamos en **settings**, en el menú de la izquierda **pages** y
 ![crear las pages](fotos/02_ajuste.png)
 
 
-Y clicamos en guardar **save**
+Y clicamos en **save** (guardar)
 
 
 ![guardar las pages](fotos/03_save.png)
